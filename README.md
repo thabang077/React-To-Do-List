@@ -12,6 +12,7 @@
 
 ```
 https://github.com/thabang077/React-To-Do-List.git
+
 ```
 
 <p>2. Go to the directory:</p>
@@ -29,10 +30,16 @@ npm install
 <p>4. Run the development server:</p>
 
 ```
+npm start
+```
+
+<p>5. Start the website:</p>
+
+```
 npm run dev
 ```
 
-<p>5. Open localhost in your browser:</p>
+<p>6. Open localhost in your browser:</p>
 
 http://localhost:3000
 
@@ -48,4 +55,4 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [Andile License](LICENSE)
